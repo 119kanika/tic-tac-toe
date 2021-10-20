@@ -29,8 +29,8 @@ nav ul{
 
 .container{
     display: grid;
-    grid-template-rows: repeat(3, 12vw);
-    grid-template-columns: repeat(3, 12vw);
+    grid-template-rows: repeat(3, 10vw);
+    grid-template-columns: repeat(3, 10vw);
     font-family: 'Roboto', sans-serif;
     position: relative;
     background-color: rgb(197, 208, 218);
